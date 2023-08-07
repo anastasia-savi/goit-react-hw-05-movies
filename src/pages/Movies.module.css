@@ -1,0 +1,14 @@
+.form{
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.item {
+  max-width: 500px;
+}
+
+.item a {
+  color: rgb(58, 58, 58);
+  margin-bottom: 10px;
+}
+

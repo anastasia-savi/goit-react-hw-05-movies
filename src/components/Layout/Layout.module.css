@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 15px;
+  padding-left: 55px;
+  gap: 35px;
+  font-size: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-top: 0;
+}
+
+.link a {
+  text-decoration: none;
+  color: rgb(58, 58, 58);
+}
+
+.link .active {
+  color: rgb(25, 118, 210);
+}

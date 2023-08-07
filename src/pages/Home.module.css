@@ -1,0 +1,18 @@
+.header {
+  color: rgb(25, 118, 210);
+  font-size: 40px;
+  padding-left: 50px;
+}
+
+.list {
+  font-size: 20px;
+}
+
+.item {
+  max-width: 500px;
+}
+
+.item a {
+  color: rgb(58, 58, 58);
+  margin-bottom: 10px;
+}
